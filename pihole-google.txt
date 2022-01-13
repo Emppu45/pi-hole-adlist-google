@@ -1420,9 +1420,6 @@ about.google.com
 aboutme.google.com
 academico.google.com
 accelerate.withgoogle.com
-account.google.com
-accountcapabilities-pa.googleapis.com
-accountsettingsmobile-pa.googleapis.com
 activity.google.com
 admob-creative.googleusercontent.com
 admob.biz
@@ -1906,7 +1903,6 @@ flutter.io
 followed.by.svc-1.google.com
 fonts.sandbox.google.com
 forcesafesearch.google.com
-forms.google.com
 foto.google.com
 fotos.google.com
 fpik3ohegr.com
@@ -1971,7 +1967,6 @@ gl-ssl.google.com
 gmskiosk.corp.google.com
 goldtradnew5.docs.google.com
 google-code-prettify.googlecode.com
-google-docs.org
 google-en.collectyourprize.club
 google-proxy-64-233-172-144.google.com
 google-proxy-64-233-172-148.google.com
@@ -1983,10 +1978,6 @@ google-proxy-66-249-83-1.google.com
 google-proxy-66-249-93-110.google.com
 google-proxy-66-249-93-206.google.com
 google-public-dns-a.google.com
-google.cx
-google.eu
-google.nf
-google.us
 googleadservices.co.uk
 googleadservices.com
 googleadservices.org
@@ -2014,8 +2005,6 @@ grow.google
 grupovirtualdeamamentacao.apis.google.com
 gseacnw61z.com
 gsmtp185-2.google.com
-gsuite.google.co.uk
-gsuite.google.com
 gsuiteupdates.googleblog.com
 gt1.google.com
 gv.com
@@ -2079,8 +2068,6 @@ ikknil4o42.com
 imageads.googleadservices.com
 images-partners-tbn.google.com
 images-partners.google.com
-IMAGEs.google.com
-imap.google.com
 ime.google.com
 inputtools.google.com
 instant.google.com
@@ -2219,7 +2206,6 @@ madeby.google.com
 madewithcode.com
 mannequin.storage.googleapis.com
 manufacturers.google.com
-map.google.com
 mapmaker.google.com
 maps-api-ssl.google.com
 maps.googleapis.com
@@ -2252,7 +2238,6 @@ mn0e.com
 mobiledataplan-pa.googleapis.com
 monitoring.google.com
 motlvm5wqs.com
-movie.google.com
 mpk01.com
 mpv5.com
 mqx78gt9rd.com
@@ -2266,18 +2251,12 @@ mts0.google.com
 mts1.google.com
 mua3.googleusercontent.com
 mucmvo8nz9.com
-music.google.com
 musiclab.chromeexperiments.com
 mv4sjysfhq.com
 mv99azr2lu.com
 mw1.google.com
 mw2.google.com
 mx.google.com
-myaccount.google.com
-myactivity.google.com
-mybusiness.google.com
-mydevices.google.com
-mymaps.google.com
 myscoop-tracking.googlecode.com
 mystuff.corp.google.com
 mzkdkfvrak.com
