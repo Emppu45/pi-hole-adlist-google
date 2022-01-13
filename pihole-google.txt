@@ -1549,18 +1549,10 @@ al5bdfhvlv.com
 almez.google.com
 alt-4.corp.google.com
 alt.aspmx.1.google.com
-alt1-mtalk.google.com
 alt1.google.com
 alt1037.mobile.google.com
 alt1053.gds.google.com
 alt1057.area120.google.com
-alt2-mtalk.google.com
-alt3-mtalk.google.com
-alt4-mtalk.google.com
-alt5-mtalk.google.com
-alt6-mtalk.google.com
-alt7-mtalk.google.com
-alt8-mtalk.google.com
 alt953.asia2.google.com
 alzafhczqu6tdfgv4jtneovav7d76blcdwfkzj5cntahh7lzy5gq.mx-verification.google.com
 america.google.com
@@ -2269,7 +2261,6 @@ mt0.google.com
 mt1.google.com
 mt2.google.com
 mt3.google.com
-mtalk.google.com
 mts.google.com
 mts0.google.com
 mts1.google.com
